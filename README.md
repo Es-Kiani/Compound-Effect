@@ -3,7 +3,7 @@
 </h1>
 
 
-![align="center"](https://img.shields.io/badge/Language-Python-blueviolet)
+!align="center"[](https://img.shields.io/badge/Language-Python-blueviolet)
 ![align="center"](https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic)
 ![align="center"](https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic)
 ![align="center"](https://img.shields.io/github/stars/E-Kiani/Compound-Effect-Calculator?color=gold&style=plastic)
