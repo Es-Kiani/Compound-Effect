@@ -5,7 +5,8 @@
 
 ![](https://img.shields.io/badge/made%20by-Stphen-informational)
 ![](https://img.shields.io/badge/language-python-blueviolet)
-![](https://img.shields.io/badge/last%20version-1.2-success)
+![](https://img.shields.io/badge/last%20version-v.1.2-success)
+![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![](https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic)
 ![](https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic)
 ![](https://img.shields.io/github/stars/E-Kiani/Compound-Effect-Calculator?color=gold&style=plastic)
