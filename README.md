@@ -3,13 +3,13 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://img.shields.io/badge/made%20by-Stphen-informational?style=plastic">
-    <img src="https://img.shields.io/badge/language-python-blueviolet?style=plastic">
-    <img src="https://img.shields.io/badge/last%20version-v.1.2-success?style=plastic">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic">
-    <img src="https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic">
-    <img src="https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic">
-    <img src="https://img.shields.io/github/stars/E-Kiani/Compound-Effect-Calculator?color=gold&style=plastic">
+    <img src="https://img.shields.io/badge/made%20by-Stphen-informational?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/badge/language-python-blueviolet?logo=python&style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/badge/last%20version-v.1.2-success?style=plastic&cacheSeconds=3600">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/stars/E-Kiani/Compound-Effect-Calculator?color=gold&style=plastic&cacheSeconds=3600">
 </h3>
 
 
