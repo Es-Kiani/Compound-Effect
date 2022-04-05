@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    [![](https://img.shields.io/badge/made%20by-Stphen-informational)](https://github.com/E-Kiani/Compound-Effect-Calculator/)
+    [![Hello World](https://img.shields.io/badge/made%20by-Stphen-informational)](https://github.com/E-Kiani/Compound-Effect-Calculator/)
     [![](https://img.shields.io/badge/language-python-blueviolet)]
     [![](https://img.shields.io/badge/last%20version-v.1.2-success)]
     [![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
