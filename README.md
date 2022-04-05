@@ -28,3 +28,7 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 ### Run /main.py/ and enjoy
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh.PNG">
+
+
+
+Thanks! heart
