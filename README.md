@@ -28,7 +28,7 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 ## 	:satellite:  Usage
 
-### Just run ```main.py``` and enjoy
+### Just run ```main.py``` || ```main.pyw```and enjoy
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh1.PNG">
 
 
