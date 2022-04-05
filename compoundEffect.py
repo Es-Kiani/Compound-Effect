@@ -1,5 +1,5 @@
 import datetime
-import sys
+import os
 
 
 def CompoundEffect(got_Asset, got_Percent, got_Step) -> float:
