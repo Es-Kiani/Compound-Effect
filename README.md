@@ -28,13 +28,13 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 ## 	:satellite:  Usage: Just run ```main.py``` || ```main.pyw``` and enjoy
 
-### After running main script, you must enter your _Base Asset_ & _Percentage_ & _Steps_
+### After running main script, in the opened window you must enter your _Base Asset_ & _Percentage_ & _Steps_.
 
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh1.PNG">
 
 
 
-### After once you press the _"Calculate"_ button, we store all of your calculated data and steps information in a _Result.txt_ file near the ```main.py``` file in the same dirctory.
+### After once you press the _"Calculate"_ button, we store all of your calculated data and steps information in a _Result.txt_ file near the ```main.py``` file in the same dirctory.  	:file_folder:
 
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh2.PNG">
 
@@ -42,7 +42,7 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 
 
-### And of course you can read the final result in the App
+### And of course you can read the final result in the App.
 
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh4.PNG">
 
