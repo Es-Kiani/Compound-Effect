@@ -32,4 +32,5 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 
 Thanks! :heart:
+
 Made with :heart: and Python.
