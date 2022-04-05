@@ -45,6 +45,6 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 
 
-Thanks! :smiling_face_with_sunglasses:
+Thanks! :sunglasses:
 
 Made with :heart: and Python.
