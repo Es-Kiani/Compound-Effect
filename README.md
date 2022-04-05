@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 lign="center"> 
+<h3 align="center"> 
     ![](https://img.shields.io/badge/Language-Python-blueviolet)
     ![](https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic)
     ![](https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic)
