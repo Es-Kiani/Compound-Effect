@@ -17,9 +17,9 @@
  
 <h3 align="left"> 
     Hello, Geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    
-    :star: Star me on GitHub — it motivates me a lot!
 </h3>
+
+:star: Star me on GitHub — it motivates me a lot!
 
 
 
