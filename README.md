@@ -26,9 +26,10 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-### Run ```main.py``` and enjoy
+### Just run ```main.py``` and enjoy
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh.PNG">
 
 
 
-Thanks! heart
+Thanks! :heart:
+Made with :heart: and Python.
