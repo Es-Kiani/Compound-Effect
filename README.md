@@ -27,8 +27,13 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 
 ### Just run ```main.py``` and enjoy
-<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh.PNG">
+<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh1.PNG">
 
+
+### After once you press the "Calculate" button, we store all of your calculated data and steps information in a ```Result.txt``` file near the ```main.py``` file in the same dirctory.
+<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh2.PNG">
+
+<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh3.PNG">
 
 
 Thanks! :heart:
