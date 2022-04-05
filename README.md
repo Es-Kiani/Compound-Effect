@@ -11,13 +11,13 @@
     <img src="https://img.shields.io/github/forks/E-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/github/stars/E-Kiani/Compound-Effect-Calculator?color=gold&style=plastic&cacheSeconds=3600">
 </h3>
-
-
-
-
-<h2 align="left"> 
+ 
+  
+   
+ 
+<h3 align="left"> 
     Hello, Geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h2>
+</h3>
 
 
 Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You Are Trading in Forex || Crypto || Any Other Financial Markets... .
@@ -26,4 +26,5 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+### Run /main.py/ and enjoy
 <img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh.PNG">
