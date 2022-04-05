@@ -1,8 +1,9 @@
 <h1 align="center"> 
-Compound-Effect-Calculator
+    Compound-Effect-Calculator
+    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </h1>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ![](https://img.shields.io/badge/Language-Python-blueviolet)
 ![](https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic)
