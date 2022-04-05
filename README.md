@@ -1,5 +1,5 @@
 <p align="center"> 
-Compound-Effect-Calculator
+**Compound-Effect-Calculator**
 </p>
 
 ![](https://img.shields.io/badge/Language-Python-blueviolet)
