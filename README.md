@@ -1,6 +1,6 @@
-<p align="center"> 
-**Compound-Effect-Calculator**
-</p>
+<h1 align="center"> 
+Compound-Effect-Calculator
+</h1>
 
 ![](https://img.shields.io/badge/Language-Python-blueviolet)
 ![](https://img.shields.io/github/issues/E-Kiani/Compound-Effect-Calculator?style=plastic)
