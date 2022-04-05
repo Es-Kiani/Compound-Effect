@@ -13,7 +13,9 @@
 </h3>
 
 
-## Hello, Geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="left"> 
+    Hello, Geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h3>
 
 
 Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You Are Trading in Forex || Crypto || Any Other Financial Markets... .
