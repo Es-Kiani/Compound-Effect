@@ -57,4 +57,4 @@ Thanks! :sunglasses:
 
 Made with :heart: and Python.
 
-    :balance_scale: MIT License
+:balance_scale:     MIT License
