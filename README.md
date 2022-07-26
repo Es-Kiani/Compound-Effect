@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/last%20version-v.1.3-success?style=plastic&cacheSeconds=3600">
     <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
     <img src="https://img.shields.io/badge/License-MIT%20License-blue?style=plastic&cacheSeconds=3600">
-    <img src="https://img.shields.io/github/issues/Es-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
-    <img src="https://img.shields.io/github/forks/Es-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
-    <img src="https://img.shields.io/github/stars/Es-Kiani/Compound-Effect-Calculator?color=gold&style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/issues/Es-Kiani/Compound-Effect?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/forks/Es-Kiani/Compound-Effect?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/github/stars/Es-Kiani/Compound-Effect?color=gold&style=plastic&cacheSeconds=3600">
 </h3>
  
   
@@ -31,16 +31,16 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 
 ### After running main script, in the opened window you must enter your _Base Asset_ & _Percentage_ & _Steps_.
 
-<img src="https://github.com/Es-Kiani/Compound-Effect-Calculator/blob/main/ScSh1.PNG">
+<img src="https://github.com/Es-Kiani/Compound-Effect/blob/main/ScSh1.PNG">
 
 
 
 ###   	:file_folder:   After once you press the _"Calculate"_ button, we store all of your calculated data and steps information in a _Result.txt_ file near the ```main.py``` file in the same dirctory.
 
 <h1 align="center"> 
-<img src="https://github.com/Es-Kiani/Compound-Effect-Calculator/blob/main/ScSh2.PNG">
+<img src="https://github.com/Es-Kiani/Compound-Effect/blob/main/ScSh2.PNG">
 
-<img src="https://github.com/Es-Kiani/Compound-Effect-Calculator/blob/main/ScSh3.PNG">
+<img src="https://github.com/Es-Kiani/Compound-Effect/blob/main/ScSh3.PNG">
 </h1>
 
 
@@ -48,7 +48,7 @@ Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You
 ###  	:memo:    And of course you can read the final result in the App.
 
 <h1 align="center"> 
-    <img src="https://github.com/Es-Kiani/Compound-Effect-Calculator/blob/main/ScSh4.PNG">
+    <img src="https://github.com/Es-Kiani/Compound-Effect/blob/main/ScSh4.PNG">
 </h1>
 
 
