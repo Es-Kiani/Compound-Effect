@@ -26,9 +26,6 @@
 Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You Are Trading in Forex || Crypto || Any Other Financial Markets... .
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
 ## 	:satellite:    Usage: Just run ```main.py``` || ```main.pyw``` and enjoy
 
 ### After running main script, in the opened window you must enter your _Base Asset_ & _Percentage_ & _Steps_.
