@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/made%20by-Stphen-informational?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/badge/language-python-blueviolet?logo=python&style=plastic&cacheSeconds=3600&logoColor=orange&logoWidth=20">
     <img src="https://img.shields.io/badge/last%20version-v.1.3-success?style=plastic&cacheSeconds=3600">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic&cacheSeconds=3600">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+    <img src="https://img.shields.io/badge/License-MIT%20License-blue?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/github/issues/Es-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/github/forks/Es-Kiani/Compound-Effect-Calculator?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/github/stars/Es-Kiani/Compound-Effect-Calculator?color=gold&style=plastic&cacheSeconds=3600">
